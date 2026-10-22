@@ -1,6 +1,4 @@
 # Hi, I'm The 👋
-<small>Age: Snake 🐍</small>
-
 > *"Turning C# logic, 3D assets, and imagination into personal indie game projects"*
 
 ---
